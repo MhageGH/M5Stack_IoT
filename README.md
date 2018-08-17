@@ -7,6 +7,12 @@
 - [Arduino IDE](https://www.arduino.cc/en/main/software)
 - [arduino-esp32](https://github.com/espressif/arduino-esp32)
 
+## Library
+- [PubSubClient](https://github.com/knolleary/pubsubclient)
+
+## Reference
+- [AWS IoT Core](https://aws.amazon.com/jp/iot-core/?hp=tile&so-exp=below)
+
 ## Usage
 - M5Stack can publish and subscribe IoT broker as AWS IoT.
 - When other services (devices) publish message and M5Stack subscribes it, you can control M5Stack by the services.
